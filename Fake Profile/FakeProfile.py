@@ -24,8 +24,8 @@ def generate_fake_profiles(num_profiles: int) -> List[dict]:
             "Email": fake.email(),
             "SSN": fake.ssn(),
             "Address": fake.address(),
-            "Latitude": fake.latitude(),
-            "Longitude": fake.longitude(),
+            "Latitude": float(fake.latitude()),
+            "Longitude": float(fake.longitude()),
             "URL": fake.url()
         }
         profiles.append(profile)
