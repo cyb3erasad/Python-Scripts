@@ -12,7 +12,7 @@ These scripts are free to use for educational purposes.
 # Table of Contents
 
 - [Contributing](#contributing)
-  - [Adding a New Script](#adding-a-new-script)
+- [Adding a New Script](#adding-a-new-script)
 - [List of Scripts in Repo](#list-of-scripts-in-repo)
 - [Requirements](#requirements)
 - [Disclaimer](#disclaimer)
